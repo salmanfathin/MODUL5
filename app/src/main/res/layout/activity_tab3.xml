@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/yellow"
+    tools:context=".Tab3">
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:padding="15dip"
+        android:text="DAFTAR PROGRAM STUDI"
+        android:textSize="20sp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="12sp"
+        android:layout_marginTop="16dp"
+        android:layout_marginLeft="15dp"
+        android:textStyle="bold"
+        android:textColor="#235284"
+        android:text="FAKULTAS EKONOMI DAN BISNIS"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="12sp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:textColor="#000000"
+        android:text="@string/fe"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="12sp"
+        android:layout_marginTop="16dp"
+        android:layout_marginLeft="15dp"
+        android:textStyle="bold"
+        android:textColor="#235284"
+        android:text="FAKULTAS HUKUM"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="12sp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:textColor="#000000"
+        android:text="@string/fh"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="12sp"
+        android:layout_marginTop="16dp"
+        android:layout_marginLeft="15dp"
+        android:textStyle="bold"
+        android:textColor="#235284"
+        android:text="FAKULTAS KEHUTANAN DAN LINGKUNGAN"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="12sp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:textColor="#000000"
+        android:text="@string/fhut"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="12sp"
+        android:layout_marginTop="16dp"
+        android:layout_marginLeft="15dp"
+        android:textStyle="bold"
+        android:textColor="#235284"
+        android:text="FAKULTAS ILMU KOMPUTER"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="12sp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:textColor="#000000"
+        android:text="@string/fkom"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="12sp"
+        android:layout_marginTop="16dp"
+        android:layout_marginLeft="15dp"
+        android:textStyle="bold"
+        android:textColor="#235284"
+        android:text="FAKULTAS KEGURUAN DAN ILMU PENDIDIKAN"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="12sp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:textColor="#000000"
+        android:text="@string/fkip"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="12sp"
+        android:layout_marginTop="16dp"
+        android:layout_marginLeft="15dp"
+        android:textStyle="bold"
+        android:textColor="#235284"
+        android:text="PASCASARJANA"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="12sp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:textColor="#000000"
+        android:text="@string/pasca"/>
+</LinearLayout>

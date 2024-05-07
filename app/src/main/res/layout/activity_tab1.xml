@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/yellow"
+    tools:context=".Tab1"
+    >
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    tools:context=".Tab1">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"
+
+        android:background="@color/black"
+        android:scaleType="fitXY"
+        android:src="@drawable/header"/>
+
+    <ImageView
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:adjustViewBounds="true"
+        android:src="@drawable/uniku"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="12sp"
+        android:layout_marginTop="16dp"
+        android:textStyle="bold"
+        android:textAlignment="center"
+        android:textColor="#235284"
+        android:text="VISI"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="10sp"
+        android:textAlignment="center"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:textColor="#000000"
+        android:text="“Menjadi Universitas Unggul yang Memiliki Komitmen Tinggi terhadap Pemberdayaan Masyarakat pada Tahun 2035”"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="12sp"
+        android:layout_marginTop="16dp"
+        android:textAlignment="center"
+        android:textStyle="bold"
+        android:textColor="#235284"
+        android:text="MISI"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="10sp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:textColor="#000000"
+        android:text="@string/misiuniku"/>
+
+</LinearLayout>
+</ScrollView>

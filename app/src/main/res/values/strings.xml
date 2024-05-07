@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MODUL5</string>
+    <string name="misiuniku">
+        Menyelenggarakan proses pembelajaran yang berkualitas dan berpusat pada mahasiswa sehingga mampu menghasilkan lulusan yang berdaya saing dan berkepribadian luhur.\n\nMenyediakan layanan pendidikan tinggi yang berkualitas dan terjangkau oleh masyarakat.\n\nMenyelenggarakan riset-riset ilmiah dalam rangka mengembangkan ilmu, teknologi, dan seni yang bermanfaat bagi kemaslahatan manusia.\n\nMenyelenggarakan pengabdian kepada masyarakat berbasis penelitian dalam rangka pemberdayaan masyarakat.\n\nMengembangkan budaya kewirausahaan mahasiswa dalam rangka melahirkan pewirausaha baru dari kalangan generasi muda terdidik .\n\nMengembangkan jejaring dengan berbagai institusi, baik pemerintah maupun swasta, dalam rangka meningkatkan kapasitas dan peran institusi dalam pembangunan bangsa</string>
+    <string name="fe">1. Prodi Manajemen\n2. Prodi Akuntansi\n3. Prodi Bisnis Digital</string>
+    <string name="fh">1. Prodi Ilmu Hukum</string>
+    <string name="fhut">1. Prodi Kehutanan\n2. Prodi Ilmu Lingkungan</string>
+    <string name="fkom">1. Prodi Teknik Informatika\n2. Prodi Sistem Informasi\n3. Prodi Desain Komunikasi Visual\n4. Prodi Teknik Sipil\n5. Prodi Manajemen Informatika (D3)</string>
+    <string name="fkip">1. Prodi Bahasa dan Sastra Indonesia\n2. Prodi Pendidikan Ekonomi\n3. Prodi Pendidikan Biologi\n4. Prodi Pendidikan Bahasa Inggris\n5. Prodi Pendidikan Guru Sekolah Dasar\n6. Prodi Pendidikan Matematika\n7. Prodi Profesi Guru</string>
+    <string name="pasca">1. Magister Pendidikan Ekonomi (S2)\n2. Magister Pendidikan Biologi (S2)\n3. Magister Manajemen (S2)</string>
+</resources>
